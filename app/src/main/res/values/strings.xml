@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppBar\'</string>
+    <string name="custom_appbar_examples">Custom AppBar Examples</string>
+    <string name="search">Search</string>
+    <string name="app_title">App Title</string>
+    <string name="help">Help</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+</resources>
